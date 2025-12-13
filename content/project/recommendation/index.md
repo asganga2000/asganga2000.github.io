@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Bajaj
+summary: Bike manufacturer and builder
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - B2C
+date: 2025-01-01
+external_link: https://www.eurokidsindia.com/curriculum/heureka-visible-thinking-curriculum.php
 ---

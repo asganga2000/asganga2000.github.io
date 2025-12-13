@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Ganga AS
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Content/Copy Writer'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✏️
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Copy Writer & Content Strategist | Driving Measurable Traffic Growth | B2B/B2C Content Expert
 
 #interests:
 #- Artificial Intelligence
@@ -45,12 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/ganga-as/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +63,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a results-driven Content & Copywriter with proven expertise in creating high-impact content and copy that drives significant organic traffic growth, enhances brand visibility, and boosts conversion rates.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At GenY Medium, I've developed over 1,000 content pieces for diverse B2B and B2C clients, generating impressive results, including a 1,409% increase in organic traffic and a 6,392% growth in impressions for a leading Saudi transportation company.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

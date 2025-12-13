@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: RegencyHealthcare
+summary: Regen hospital
 tags:
-  - CV
+  - B2B
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://regencyhealthcare.in/?s=Cervical+Cancer+Blog
 ---

@@ -28,12 +28,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: HealthCare
+      tag: HC
+    - name: Education
+      tag: EDU
+    - name: Real Estate
+      tag: RE
+    - name: B2B
+      tag: B2B
+    - name: B2C & Others
+      tag: B2C
 
 design:
   columns: '1'

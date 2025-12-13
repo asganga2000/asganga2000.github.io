@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Instagram saample
+summary: ACC
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - EDU
+date: 2025-01-01
+external_link: https://www.instagram.com/reel/DNZr5TUP0_e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
