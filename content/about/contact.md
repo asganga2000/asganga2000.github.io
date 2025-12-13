@@ -18,9 +18,9 @@ content:
 
   # Email form provider
   form:
-    provider: web3forms
-    web3forms:
-      id: e0868b92-63aa-4d1f-bd79-07a165b6cbe3  # Web3Forms API Key
+    provider: formspree
+    formspree:
+      id: movgrkrv  #API Key
     netlify:
       captcha: false
 
