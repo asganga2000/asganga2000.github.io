@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
-  font: minimal
+  theme_day: coffee
+  theme_night: coffee
+  font: Sans
   font_size: L
 
 # SEO
@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Portfolio of Ganga AS - Content Writer & Strategist'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -113,6 +112,11 @@ hugoblox:
     description: I'm a results-driven Content & Copywriter with proven expertise in creating high-impact content and copy
   theme:
     pack: coffee
+    colors:
+      primary: gray
+    mode: dark
   content:
     reading_time:
       enable: false
+  layout:
+    spacing: compact
