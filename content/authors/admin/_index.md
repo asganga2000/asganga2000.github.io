@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@asganga2000
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ganga-as/
