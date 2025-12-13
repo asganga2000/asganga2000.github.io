@@ -1,6 +1,6 @@
 ---
 title: C.R.I
-summary: Pumps
+summary: Leading global manufacturer of fluid management solutions
 tags:
   - B2B
 date: 2025-01-01
