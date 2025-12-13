@@ -20,8 +20,8 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: Copy Writer & Content Strategist | Driving Measurable Traffic Growth | B2B/B2C Content Expert
 
-Expertise:
-- B2C Mastery
+# interest:
+# - B2C Mastery
 
 #education:
 #  courses:
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "asganga2000@gmail.com"
 ---
 
 I'm a results-driven Content & Copywriter with proven expertise in creating high-impact content and copy that drives significant organic traffic growth, enhances brand visibility, and boosts conversion rates.

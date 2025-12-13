@@ -18,12 +18,11 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: e0868b92-63aa-4d1f-bd79-07a165b6cbe3  # Web3Forms API Key
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
 design:
   columns: '1'
