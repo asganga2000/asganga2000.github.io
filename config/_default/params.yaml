@@ -105,3 +105,14 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+hugoblox:
+  identity:
+    name: Ganga AS
+    organization: GenY Medium
+    tagline: Copy Writer & Content Strategist | Driving Measurable Traffic Growth | B2B/B2C Content Expert
+    description: I'm a results-driven Content & Copywriter with proven expertise in creating high-impact content and copy
+  theme:
+    pack: coffee
+  content:
+    reading_time:
+      enable: false
