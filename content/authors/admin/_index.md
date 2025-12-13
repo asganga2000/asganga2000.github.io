@@ -61,8 +61,8 @@ social:
 email: "asganga2000@gmail.com"
 ---
 
-I'm a results-driven Content & Copywriter with proven expertise in creating high-impact content and copy that drives significant organic traffic growth, enhances brand visibility, and boosts conversion rates.
+I'm a versatile content and copywriter with two years of hands-on experience across diverse industries. My work spans both B2B and B2C brands, helping businesses communicate their value through strategic and engaging content.
 
-At GenY Medium, I've developed over 1,000 content pieces for diverse B2B and B2C clients, generating impressive results, including a 1,409% increase in organic traffic and a 6,392% growth in impressions for a leading Saudi transportation company.
+My expertise lies in understanding the unique voice and needs of each sector, from the technical precision required in B2B product copy for brands like C.R.I. and Ador Welding, to the empathetic, trust-building content needed in healthcare, to the aspirational messaging that resonates in real estate and education. Whether it's crafting social media campaigns that drive engagement, writing landing pages that convert, or developing comprehensive content strategies, I bring a results-oriented approach to every project.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
