@@ -1,6 +1,6 @@
 ---
 title: Avinash Group of Institutions
-summary: best commerce college in Hyderabad
+summary: Best commerce college in Hyderabad
 tags:
   - EDU
 date: 2025-01-01

@@ -1,6 +1,6 @@
 ---
 title: NW Bus
-summary: leading transportation brand in Saudi Arabia
+summary: Leading transportation brand in Saudi Arabia
 tags:
   - B2C
 date: 2025-01-01

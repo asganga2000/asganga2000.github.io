@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: HealthCare
+    - name: Healthcare
       tag: HC
     - name: Education
       tag: EDU

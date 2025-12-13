@@ -1,6 +1,6 @@
 ---
 title: Lansum
-summary: a prominent real estate developer in Hyderabad
+summary: Prominent real estate developer in Hyderabad
 tags:
   - RE
 date: 2025-01-01
