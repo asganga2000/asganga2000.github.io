@@ -32,7 +32,7 @@ experience:
 
   - title: Bachelor of Arts - BA English
     company: GOVT ARTS AND SCIENCE COLLEGE
-    company_url: ''
+    company_url: 'https://gckulathur.ac.in/'
     company_logo: GASC
     location: Kulathoor, KL
     date_start: '2018-06-01'
