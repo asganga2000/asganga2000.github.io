@@ -36,7 +36,7 @@ experience:
     company_logo: GASC
     location: Kulathoor, KL
     date_start: '2018-06-01'
-    date_end: '2021-04-31'
+    date_end: '2021-04-30'
 
 design:
   columns: '1'
