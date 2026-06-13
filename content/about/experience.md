@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.redmatter.in/'
     company_logo: RMT
     location: Hyderabad, TG
-    date_start: '2025-03-02'
-    date_end: '2025-06-24'
+    date_start: '2026-03-02'
+    date_end: '2026-06-24'
     description: |2-
         Responsibilities include:
         
@@ -42,7 +42,7 @@ experience:
     company_logo: GY
     location: Hyderabad, TG
     date_start: '2023-12-01'
-    date_end: '2025-02-27'
+    date_end: '2026-02-27'
     description: |2-
         Responsibilities include:
         
