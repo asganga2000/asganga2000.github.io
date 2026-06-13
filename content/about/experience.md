@@ -28,7 +28,7 @@ experience:
     company_logo: RMT
     location: Hyderabad, TG
     date_start: '2025-03-02'
-    date_end: ''
+    date_end: '2025-06-24'
     description: |2-
         Responsibilities include:
         
@@ -42,7 +42,7 @@ experience:
     company_logo: GY
     location: Hyderabad, TG
     date_start: '2023-12-01'
-    date_end: ''
+    date_end: '2025-02-27'
     description: |2-
         Responsibilities include:
         
