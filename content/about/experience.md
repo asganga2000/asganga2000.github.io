@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Content/Copy Writer
+    company: Redmatter - Marketing Agency
+    company_url: 'https://www.redmatter.in/'
+    company_logo: RMT
+    location: Hyderabad, TG
+    date_start: '2025-03-02'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Produced platform-optimized social and copy campaigns across FMCG, lifestyle, and services.
+        * Drove lead generation through targeted messaging and strategic CTAs.
+        * Collaborated with key clients, including a top cookware brand, from concept to launch.
+        
+  - title: Content/Copy Writer
     company: GenY Medium
     company_url: 'https://genymedium.com/'
     company_logo: GY
